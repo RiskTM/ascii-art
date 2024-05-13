@@ -4,6 +4,10 @@ This is a simple python script that converts a image to a ascii art text documen
 
 If the width of the picture is greater then 500px the imagesize will be halved until it is smaller then 500px.
 
+## EXAMPLE
+
+![The scream converted by the python script](./ascii_art_der_schrei.png)
+
 ## USAGE
 
 ~~~bash
